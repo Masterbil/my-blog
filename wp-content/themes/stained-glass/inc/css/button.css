@@ -1,0 +1,20 @@
+.site .wide .widget.stainedglass_widget_button {
+	padding: 20px;
+	bsackground: #123;
+}
+
+.stainedglass-button {	
+	text-align: center;
+}
+
+.stainedglass-link {
+	border: 1px solid #eee;
+	display: inline-block;
+	font-size: 24px;
+	margin: 0 20px;
+	padding: 20px;
+}
+.stainedglass-link:hover {
+	box-shadow: 0 0 4px 4px #999;
+	text-decoration: none;
+}
